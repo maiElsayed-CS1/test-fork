@@ -4,3 +4,5 @@
 git init 
 git add
 ```
+get add
+....
