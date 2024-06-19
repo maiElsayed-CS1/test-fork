@@ -2,5 +2,6 @@
 
 ``` 
 git init 
-git add
+git addd
 ```
+
